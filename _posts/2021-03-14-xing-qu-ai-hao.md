@@ -2,7 +2,6 @@
 layout: post
 title:  "曲比尔洛的兴趣爱好"
 image: assets/images/3U7A6899.JPG
-featured: true
 ---
 
 > 曲比尔洛says：我喜欢allen walker 
